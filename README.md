@@ -4,6 +4,15 @@ Mobile classifieds marketplace app for publishing, browsing and managing listing
 
 The app was built around a simple marketplace flow: users can browse listings, search by category, publish their own offers and receive app notifications about listing activity.
 
+
+## Visual preview
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/b20a3e247234923.69d659a7831be.jpg" alt="Trade24 mobile marketplace" width="70%">
+</p>
+
+[View the complete visual case study on Behance](https://www.behance.net/gallery/247234923/Trade-24)
+
 ---
 
 ## My role
